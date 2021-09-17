@@ -1,4 +1,4 @@
-## Theory:
+### Theory:
  
 
 Antibodies widely available for the scientific and diagnostic purposes are mainly mammalian monoclonal and polyclonal antibodies. Smaller animals such as mice and rats were used for the production of monoclonal antibodies while horses, sheep, pigs, rabbits and guinea pigs were used for the production of polyclonal antibodies. The major disadvantage of monoclonal antibody production is that some of the antigens are weakly immunogenic for mice. In polyclonal antibody production, the purification of the antibodies of interest from the mammalian blood was found to more difficult and  labour intensive. Antibodies can be harvested from the egg yolk of birds instead of serum, which possess a wide range of application in antibody production.  Also the antibody productivity of egg-lying hen is greater when compared to similar sized mammal. Thus the hens are thought as a convenient and cheap source for the production of antibodies.
