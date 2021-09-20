@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Biomolecules such as proteins, polypeptides, nucleic acids and polynucleotide’s are separated using:",
+      "answers": {
+        "a": "Paper chromatography",
+        "b": "Ion exchange chromatography",
+        "c": "Liquid chromatography",
+        "d": "Gas chromatography"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Example of positively charged anion exchanger",
+      "answers": {
+        "a": "Carboxymethyl",
+        "b": "Triethylaminoethyl",
+        "c": "Diethylaminoethyl",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Which of the following is a characteristic feature of chicken IgY antibodies ?",
+      "answers": {
+        "a": "single constant region",
+        "b": "consists of three constant regions",
+        "c": "consists of two constant regions",
+        "d": "consists of four constant regions"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.The molecular mass of IgY antibodies",
+        "answers": {
+          "a": "180 KDa",
+          "b": "300 KDa",
+          "c": "150 KDa",
+          "d": "200 KDa"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
