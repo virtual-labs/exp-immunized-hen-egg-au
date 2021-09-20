@@ -1,4 +1,4 @@
-### Materials Required:
+#### Materials Required:
  
 1.	Immunized hen egg
 2.	TBS
@@ -25,7 +25,7 @@
 
 
  
-## Procedure:
+### Procedure:
  
 1.	Sterilize the egg shell with 70% ethanol.
 2.	The yolk is separated from the white and the yolk membrane is cut open.
@@ -45,9 +45,10 @@
 16.	Centrifuge the suspension at 13000 rpm for 1 hour at 4oC.
 17.	After centrifugation carefully discard the supernatant and the pellet is collected at the bottom of the centrifuge tube.
 18.	Add 10 ml of TBS buffer to the pellet and mix it properly. Keep the centrifuge in the ice box.
- 
- 
-### Purification of IgG Fraction by Dialysis Activation of Dialysis Tubing:
+
+&nbsp;
+
+#### Purification of IgG Fraction by Dialysis Activation of Dialysis Tubing:
  
 1.	Place a small piece of dialysis tubing in a beaker containing 2% sodium bicarbonate solution. Keep it in the water bath for 20 minutes at 100oC.
 2.	After that, take the dialyzing tube from the sodium bicarbonate solution and wash it with water.
@@ -56,8 +57,9 @@
 5.	Rinse the dialyzing tube with 005 M Tris Hcl buffer (pH =8).
 6.	Place the dialyzing tube on a tissue paper.
 
+&nbsp;
  
-### Purification of IgG Antibodies:
+#### Purification of IgG Antibodies:
  
 1.	 Pipette 10 ml of the IgG pellets suspended in TBS buffer.
 2.	Add the resuspended solution into an activated dialyzing tube and clamp it properly.
@@ -65,9 +67,10 @@
 4.	Place the activated dialyzing tube in a beaker containing PBS buffer (pH =7.2). Keep a magnetic stirrer in the beaker.
 5.	Place the beaker in a Visicooler for 3 hours at 4oC. Mix the supernatant well with the magnetic stir bar.
 6.	Then, pipette the IgG suspension in the dialyzing tubing using a sterile pasteur pipette. Transfer the IgG suspension into a new centrifuge tube labeled dialyzed IgG.
- 
 
-### Purification of IgG Fraction by Ion-Exchange Chromatography:
+&nbsp;
+
+#### Purification of IgG Fraction by Ion-Exchange Chromatography:
  
 1.	Carefully wash the chromatographic column with distilled water.
 2.	Transfer DEAE cellulose slurry into the chromatographic column. Then transfer PBS buffer into the column. Later collect PBS buffer into a beaker and then tap the column properly.
